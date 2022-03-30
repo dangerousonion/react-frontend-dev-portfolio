@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "​I'm Anna, a Game Designer/Project Manager with an expected mathematical degree. I gained the most of my experience in game development by working in indie teams, where I create concepts, write design documents, and organize the work of other talented specialists. I've started to actively develop in game design about two years ago and the following is a selection of what I've done so far. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,107 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Mind&Machine",
+        "startDate": "WORK IN PROGRESS",
+        "description1": "Mind&Machine - 3D sci-fi adventure where you can obey devices on a spaceship and explore the mysterious spaceship with them.",
+        "description2": "The most expanded project I had an opportunity to work with. I'm making this game in a team of 9 people as a final submission for game development courses I'm currently participating in. my tasks include all the work of a game designer, from creating and writing documentation for features to integrating and configuring them in Unity.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/mind/p0.jpg",
+          "images/portfolio/mind/p1.jpg",
+          "images/portfolio/mind/p2.jpg",
+          "images/portfolio/mind/p3.jpg",
+          "images/portfolio/mind/p4.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
+        "url": "https://conscious-saver-dfc.notion.site/Mind-Machine-Summary-2b1dc741545242ba921407bb2f202412",
+        "technologies": []
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "HYPERCASUAL MOBILE",
+        "startDate": "WORK IN PROGRESS",
+        "description1": "Making Doodle Jump even easier to play and with gacha mechanic.",
+        "description2": "This is a small android game, that I'm writing game design documentation for. During the development process in team of 6 people, I've gained experience of creating simple metagame and monetization mechanics, as well as trained some more for general systemic design.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.jpg"
+        ],
+        "url": "https://conscious-saver-dfc.notion.site/Animals-Summary-73510cf65ac241769e9817b6583e0ba3",
+        "technologies": []
+      },
+      {
+        "title": "Jam Project",
+        "startDate": "Dec, 2021",
+        "description1": "A 3d runner where size of player is not a constant. I designed and imlemented this game in team of 9 in 48 hours.",
+        "description2": "This is my first experience doing design for 3d graphic and realistic physics project.",
+        "images": [
+          "images/portfolio/snow/p1.jpg",
+          "images/portfolio/snow/p2.jpg",
+          "images/portfolio/snow/p3.jpg",
+          "images/portfolio/snow/p4.jpg"
+        ],
+        "url": "https://conscious-saver-dfc.notion.site/Snowball-Summary-d963e309563c4851bc69e3ce9e5917dc",
+        "technologies": []
+      },
+      {
+        "title": "Jam Project",
+        "startDate": "Nov, 2021",
+        "description1": "A puzzle game with focus on timings which I designed and imlemented in team of 6 in 72 hours.",
+        "description2": "In this project I had a first exipirience managing large team and working with another game designer at my help.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
+        "url": "https://conscious-saver-dfc.notion.site/Rock-n-Roll-Museum-Summary-9570bf74961443cfb523835a105221c5",
+        "technologies": []
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Jam Project",
+        "startDate": "Oct, 2021",
+        "description1": "A small quest game which I did on my own during LudumDare Jam .",
+        "description2": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/witch/p1.jpg",
+          "images/portfolio/witch/p2.jpg"
         ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
+        "url": "https://conscious-saver-dfc.notion.site/Witch-Season-Summary-077b4fb6e31946ff9efe06ed913640af",
+        "technologies": []
+      },
+      {
+        "title": "Application task for Game Design courses",
+        "startDate": "Sept, 2021",
+        "description1": "The test task I made to enroll in Wargaming Academy, game development courses produced by one of the largest game dev company of Post-Soviet states. I've proven my qualification and been selected among others.",
+        "description2": "",
+        "images": [
+          "images/portfolio/card/p1.jpg"
+        ],
+        "url": "https://conscious-saver-dfc.notion.site/Application-task-for-game-design-courses-e5cae5a40ba242699535165a62835ba2",
+        "technologies": []
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "",
+        "title": "Completing my first bachelor degree at Applied Mathematics",
+        "years": "2018 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Saint-Petersburg state university"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Basic Programming knowledge",
+          "Neural networks",
+          "Computer Graphics",
+          "MATH."
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "",
+        "title": "Game Design courses",
+        "years": "12.2021 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Wargaming (Lesta Studio)"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "All stuff from upper section"
         ]
       }
     ]
