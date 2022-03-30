@@ -18,6 +18,7 @@ class Projects extends Component {
     let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
+      var addInfo = this.props.resumeBasicInfo.section_name.projects;
       var projects = this.props.resumeProjects.map(function (projects) {
         return (
           <div
@@ -61,6 +62,11 @@ class Projects extends Component {
             onHide={detailsModalClose}
             data={this.state.deps}
           />
+        </div>
+        <div className="col-md-12">
+          <h3 style={{ padding: "5px 5px 0 5px" }}>
+            <span> <a target="_blank" href="https://winded-blues.itch.io/">More projects are available at my Itch.io</a></span>
+          </h3>
         </div>
       </section>
     );

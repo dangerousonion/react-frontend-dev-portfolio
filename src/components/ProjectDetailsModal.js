@@ -10,7 +10,8 @@ class ProjectDetailsModal extends Component {
       const technologies = this.props.data.technologies;
       const images = this.props.data.images;
       var title = this.props.data.title;
-      var description = this.props.data.description;
+      var description1 = this.props.data.description1;
+      var description2 = this.props.data.description2;
       var url = this.props.data.url;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
@@ -78,7 +79,7 @@ class ProjectDetailsModal extends Component {
           </div>
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
-              {title}
+              {"MORE"}
               {url ? (
                 <a
                   href={url}
@@ -93,7 +94,8 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <p className="modal-description">{description1}</p>
+            <p className="modal-description">{description2}</p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>

@@ -1,17 +1,9 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Anna Aleksandrova",
+      "titles": [ "Junior Game Designer", "20 y.o.", "From Russia" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
@@ -19,49 +11,34 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Unity Engine",
+          "class": "devicon-unity-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Game Design Documentation",
+          "class": "devicon-doc-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Games & Probability Theory",
+          "class": "devicon-win-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Systemic design",
+          "class": "devicon-n-plain",
           "level": "90"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "Basics of Programming",
+          "class": "devicon-ja-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Level Design",
+          "class": "devicon-level-original",
           "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }
